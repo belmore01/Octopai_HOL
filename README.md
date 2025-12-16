@@ -1,6 +1,6 @@
 # Cloudera Octopai Data Lineage
 
-**Hands-On Lab Exercises**
+## Hands-On Lab Exercises
 
 ## Exercise #1
 
