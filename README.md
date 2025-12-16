@@ -26,7 +26,7 @@ icon.
 
 **Benefit**: Octopai reduces RCA time from days to minutes, increasing confidence in data integrity and improving efficiency.
 # 
-# Exercise #2
+## Exercise #2
 **Schema Change / Impact Analysis**
 
 **Context**: Imagine you’re planning a schema update—what happens to everything downstream?
@@ -49,7 +49,7 @@ icon.
 
 **Benefit**: Octopai reduces risks of change management activities and empowers proactive teams.
 # 
-# Exercise #3
+## Exercise #3
 **Compliance & Governance**
 
 **Context**: An auditor requests a trace of where PII flows across your environment.
@@ -73,7 +73,7 @@ icon.
 
 **Benefit**: Octopai simplifies compliance requests by making them automated and traceable.
 # 
-# Exercise #4
+## Exercise #4
 **Cloud Migration**
 
 **Context**: Before migrating to the cloud, you need to know what’s connected to what and reduce unnecessary objects.
@@ -100,7 +100,7 @@ icon.
 
 **Benefit**: Octopai enables informed migrations with full visibility, optimization guidance and script conversion.
 # 
-# Exercise #5
+## Exercise #5
 **FinOps / Cost Reduction**
 
 **Context**: You’ve been asked to reduce waste/cost by showing unused or duplicate reports and data pipelines.
@@ -119,7 +119,7 @@ icon.
 
 **Benefit**: Octopai enables intelligent rationalization by revealing redundant data flows, disconnected pipelines, and redundant reporting logic—helping FinOps teams drive measurable cost reductions without sacrificing data availability.
 # 
-# Exercise #6
+## Exercise #6
 **Data Democratization**
 
 **Context**: Enable new employees and non-technical users. They need to understand a particular metric.
